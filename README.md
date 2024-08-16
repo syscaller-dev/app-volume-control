@@ -1,5 +1,5 @@
 # application volume control
-Small Background Script to control the volume specified applications on your windows PC with the volume wheel on your keyboard.
+Small Background Script to control the volume of specified applications on your windows PC with the volume wheel on your keyboard.
 
 ## Install
 ### Install Python
