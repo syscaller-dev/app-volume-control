@@ -4,11 +4,11 @@ Small Background Script to control the volume of specified applications on your 
 ## Install
 ### Install Python
 https://www.python.org/downloads/
+This script is currently compatible with versions < 3.13 because of its depedency to comtypes
 
 ### Install the Dependencies
 ```
-py -m pip install pynput
-py -m pip install pycaw
+pip install -r requirements.txt
 ```
 
 ## Configuration
